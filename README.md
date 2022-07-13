@@ -4,6 +4,10 @@
 
 I created this project in c++ as my logic building exercise.
 
+
+#To clone this repo Please use: 
+                           git clone https://github.com/bheemmastkar/Cpp-Project.git
+
 ![restorent_manage](https://user-images.githubusercontent.com/108661620/177530936-ca8978cf-1a05-4fb7-a776-5f455bc35b7c.jpg)
 
 
